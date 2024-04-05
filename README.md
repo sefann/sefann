@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sefa
 - 👀 I’m a tech enthusiast
 - 🌱 I’m currently upgrading my python skills 
-- 💞️ I’m looking to collaborate oon any progject that allows me learn 
+- 💞️ I’m looking to collaborate on any progject that allows me learn 
 - 📫 How to reach me iortyersefa@gmail.com
 
 <!---
